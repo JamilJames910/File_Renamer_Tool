@@ -112,6 +112,6 @@ Contributions, suggestions, and improvements are welcome!
 
 ## Contact ✉️
 
-Created with ❤️ by \[Jamil James]
+Created with ❤️ by \ Jamil James
 GitHub: https://github.com/JamilJames910
 Email:  Jamil.i.James1@gmail.com
