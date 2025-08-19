@@ -1,4 +1,4 @@
-# File Renamer CLI 🗂️
+# File Renamer Tool 🗂️
 
 A simple, intuitive, and safe Python command-line tool to **rename all files in a folder with custom numbering and prefixes**. Perfect for organizing photos, documents, or any batch of files.
 
@@ -30,8 +30,8 @@ A simple, intuitive, and safe Python command-line tool to **rename all files in 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/File_Renamer_CLI.git
-cd File_Renamer_CLI
+git clone https://github.com/your-username/File_Renamer_Tool.git
+cd File_Renamer_Tool
 ````
 
 2. Make sure you have **Python 3.x** installed.
@@ -53,7 +53,7 @@ venv\Scripts\activate     # Windows
 Run the script:
 
 ```bash
-python rename_files.py
+python File_Renamer_Tool.py
 ```
 
 You will be prompted to:
@@ -89,8 +89,8 @@ Renamed: IMG002.jpg -> vacation_11.jpg
 ## Project Structure 🗂️
 
 ```
-File_Renamer_CLI/
-├── rename_files.py        # Main script
+File_Renamer_Tool/
+├── File_Renamer_Tool.py        # Main script
 ├── README.md              # Project documentation
 └── .gitignore             # Git ignore file
 ```
@@ -113,5 +113,11 @@ Contributions, suggestions, and improvements are welcome!
 ## Contact ✉️
 
 Created with ❤️ by Jamil James
+<<<<<<< HEAD
 GitHub: https://github.com/JamilJames910
 Email:  Jamil.i.James1@gmail.com
+=======
+
+* GitHub: [JamilJames910](https://github.com/JamilJames910)
+* Email: **[Jamil.i.James1@gmail.com](mailto:Jamil.i.James1@gmail.com)**
+>>>>>>> 1be0200 (Update README with structured format)
