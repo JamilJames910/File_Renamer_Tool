@@ -30,7 +30,7 @@ A simple, intuitive, and safe Python command-line tool to **rename all files in 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/File_Renamer_Tool.git
+git clone https://github.com/JamilJames910/File_Renamer_Tool.git
 cd File_Renamer_Tool
 ````
 
