@@ -113,11 +113,6 @@ Contributions, suggestions, and improvements are welcome!
 ## Contact ✉️
 
 Created with ❤️ by Jamil James
-<<<<<<< HEAD
-GitHub: https://github.com/JamilJames910
-Email:  Jamil.i.James1@gmail.com
-=======
 
 * GitHub: [JamilJames910](https://github.com/JamilJames910)
 * Email: **[Jamil.i.James1@gmail.com](mailto:Jamil.i.James1@gmail.com)**
->>>>>>> 1be0200 (Update README with structured format)
